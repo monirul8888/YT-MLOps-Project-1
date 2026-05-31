@@ -1,0 +1,5 @@
+monirrulai_db_user
+
+vHUYdW41iIy5nmwJ
+
+mongodb+srv://monirrulai_db_user:<db_password>@cluster0.wdbmcrn.mongodb.net/?appName=Cluster0
